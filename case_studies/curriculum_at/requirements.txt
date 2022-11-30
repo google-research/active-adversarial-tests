@@ -1,0 +1,6 @@
+ConfigArgParse==0.14.0
+tqdm==4.31.1
+tensorflow-gpu==1.14.0
+numba>=0.43.1
+matplotlib>=3.0.3
+Pillow==5.4.1
