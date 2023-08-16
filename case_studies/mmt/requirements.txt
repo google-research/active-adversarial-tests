@@ -8,7 +8,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.weakref==1.0.post1
 bleach==1.5.0
 blessings==1.6.1
-certifi==2018.10.15
+certifi==2023.7.22
 chardet==3.0.4
 cleverhans==2.1.0
 Click==7.0
