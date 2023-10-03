@@ -145,7 +145,7 @@ traitlets==4.3.2
 trash-cli==0.12.9.14
 Twisted==16.0.0
 Unidecode==1.0.23
-urllib3==1.22
+urllib3==1.26.17
 virtualenv==15.0.1
 wcwidth==0.1.7
 Werkzeug==0.14.1
