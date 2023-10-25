@@ -148,6 +148,6 @@ Unidecode==1.0.23
 urllib3==1.22
 virtualenv==15.0.1
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==3.0.1
 widgetsnbextension==3.4.2
 zope.interface==4.1.3
