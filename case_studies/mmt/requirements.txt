@@ -143,7 +143,7 @@ tornado==5.1.1
 tqdm==4.29.1
 traitlets==4.3.2
 trash-cli==0.12.9.14
-Twisted==16.0.0
+Twisted==23.8.0
 Unidecode==1.0.23
 urllib3==1.22
 virtualenv==15.0.1
