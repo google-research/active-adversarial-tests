@@ -34,7 +34,7 @@ grpcio==1.11.0
 gyp==0.1
 h5py==2.8.0
 html5lib==0.9999999
-httplib2==0.9.1
+httplib2==0.19.0
 idna==2.7
 ImageHash==4.0
 imageio==2.4.1
