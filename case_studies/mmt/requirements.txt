@@ -53,7 +53,7 @@ jupyter-client==5.2.4
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 kaggle==1.5.1.1
-Keras==2.2.4
+Keras==2.13.1
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 keras-tqdm==2.0.1
