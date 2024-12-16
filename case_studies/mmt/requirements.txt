@@ -13,7 +13,7 @@ chardet==3.0.4
 cleverhans==2.1.0
 Click==7.0
 cloudpickle==0.6.1
-configobj==5.0.6
+configobj==5.0.9
 configparser==3.5.0
 cryptography==1.2.3
 cycler==0.10.0
