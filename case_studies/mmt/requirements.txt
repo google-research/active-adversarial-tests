@@ -146,7 +146,7 @@ trash-cli==0.12.9.14
 Twisted==16.0.0
 Unidecode==1.0.23
 urllib3==1.22
-virtualenv==15.0.1
+virtualenv==20.26.6
 wcwidth==0.1.7
 Werkzeug==0.14.1
 widgetsnbextension==3.4.2
