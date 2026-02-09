@@ -67,7 +67,7 @@ matplotlib==2.2.3
 mistune==0.8.4
 mnist==0.2.2
 mock==2.0.0
-nbconvert==5.4.0
+nbconvert==7.17.0
 nbformat==4.4.0
 netaddr==0.7.18
 networkx==2.2
