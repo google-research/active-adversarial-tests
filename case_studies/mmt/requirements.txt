@@ -94,7 +94,7 @@ protobuf==3.6.1
 psutil==5.4.3
 ptyprocess==0.5
 PuLP==1.6.8
-pyasn1==0.1.9
+pyasn1==0.6.3
 pyasn1-modules==0.0.7
 pycodestyle==2.4.0
 pycrypto==2.6.1
