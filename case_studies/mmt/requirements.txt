@@ -100,7 +100,7 @@ pycodestyle==2.4.0
 pycrypto==2.6.1
 pycups==1.9.73
 pycurl==7.43.0
-Pygments==2.3.1
+Pygments==2.20.0
 pygobject==3.20.0
 PyMySQL==0.7.2
 PyOpenGL==3.0.2
